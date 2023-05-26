@@ -1,5 +1,5 @@
 - [Github](Github.md)
-- [AI](../Drafts/2.Leaf/AI.md)
+- [AI](AI.md)
 - [星愿浏览器](星愿浏览器.md)
 - [考研](考研.md)
 - [网盘](网盘.md)
